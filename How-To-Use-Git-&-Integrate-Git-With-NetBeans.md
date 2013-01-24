@@ -1,7 +1,5 @@
 ### Getting Started
-Create an account on https://github.com/.  [Send me an email](mailto:archon68@gmail.com) with your username, so I can add you as a collaborator on our GitHub repository.
-
-Our repository is located at:  https://github.com/benrbray/AdamBots-FIRST-2013-Robot-Code
+Create an account on https://github.com/.  Star the repository or [send me an email](mailto:archon68@gmail.com) with your username, so I can add you as a collaborator to this repository.
 
 ### Terminology
 
